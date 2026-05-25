@@ -6,7 +6,7 @@ A full-stack online shopping platform where users can browse products, manage th
 
 ## 🚀 Live Demo
 
-> Coming soon / Add your deployed link here
+> Coming soon 
 
 ---
 
